@@ -1,0 +1,31 @@
+{
+  "name": "lims",
+  "version": "1.0.0",
+  "description": "LIMP: Language Improvement & Maintenance System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunolima5662/LIMS.git"
+  },
+  "author": "Bruno Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunolima5662/LIMS/issues"
+  },
+  "homepage": "https://github.com/brunolima5662/LIMS#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.42.1"
+  }
+}
